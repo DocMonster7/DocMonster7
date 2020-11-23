@@ -1,4 +1,13 @@
-### Hi there 👋
+### Im Errol Joshua
+
+#### Information about me
+- I just work on project ideas that pop in my head.
+- I am private person so, many of my repos are private.
+- I like to give coding 101 for people who can't get a formal education
+- Also Massive Metal Head and currently listening to Gojira
+- Reach out to me at [Twitter](https://twitter.com/erroljoshua7) Dm's are always open
+
+
 
 <!--
 **DocMonster7/DocMonster7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
