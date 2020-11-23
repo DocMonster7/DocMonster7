@@ -1,6 +1,6 @@
 ### Im Errol Joshua
 
-#### Information about me
+### Information about me
 - I just work on project ideas that pop in my head.
 - I am private person so, many of my repos are private.
 - I like to give coding 101 for people who can't get a formal education
