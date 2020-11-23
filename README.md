@@ -5,7 +5,7 @@
 - I am private person so, many of my repos are private.
 - I like to give coding 101 for people who can't get a formal education
 - Also Massive Metal Head and currently listening to Gojira
-- Reach out to me at [Twitter](https://twitter.com/erroljoshua7) Dm's are always open
+- Reach out to me at [Twitter](https://twitter.com/erroljoshua7) DM's are always open
 
 
 
